@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Release" CONFIG_NAME="Release" BUILD_OPTIONS="-j" ENABLED="true" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="88c03139-e8aa-4f4f-81b2-16a0afe8a740" name="Default Changelist" comment="second">
+      <change beforePath="$PROJECT_DIR$/../OpenChisel_ws" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenChisel_ws" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TSDF-CUDA" beforeDir="false" afterPath="$PROJECT_DIR$/../TSDF-CUDA" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TSDF-CUDA_init" beforeDir="false" afterPath="$PROJECT_DIR$/../TSDF-CUDA_init" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tsdf_fusion_prj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tsdf_fusion_prj_bak" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1rkovPoRsUYNRErGZcbMJ29z5FH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/CMakeLists.txt" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.tabs" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app" />
+      <recent name="$PROJECT_DIR$/include" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/config" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tsdf_fusion" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="../config/fusion_config_my.yaml ../data/rgbd-frames_my/" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="tsdf_fusion" CONFIG_NAME="Release" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="tsdf_fusion">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="88c03139-e8aa-4f4f-81b2-16a0afe8a740" name="Default Changelist" comment="" />
+      <created>1619529678430</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619529678430</updated>
+      <workItem from="1619529680267" duration="61821000" />
+      <workItem from="1619748107152" duration="16900000" />
+      <workItem from="1622618042133" duration="1294000" />
+      <workItem from="1622619775029" duration="119000" />
+      <workItem from="1622621883353" duration="779000" />
+      <workItem from="1622720625141" duration="642000" />
+      <workItem from="1622775900213" duration="13000" />
+      <workItem from="1623034827699" duration="13710000" />
+      <workItem from="1624424327938" duration="2703000" />
+      <workItem from="1624431574306" duration="599000" />
+      <workItem from="1624432905326" duration="11253000" />
+      <workItem from="1624453331247" duration="2477000" />
+      <workItem from="1624457880585" duration="359000" />
+      <workItem from="1624458385379" duration="15093000" />
+      <workItem from="1624516400452" duration="20408000" />
+      <workItem from="1624609279900" duration="11973000" />
+      <workItem from="1624672855190" duration="5027000" />
+      <workItem from="1624686521312" duration="8992000" />
+      <workItem from="1624705375557" duration="15133000" />
+      <workItem from="1624763039770" duration="3530000" />
+      <workItem from="1624816367654" duration="56000" />
+      <workItem from="1624816485492" duration="10068000" />
+      <workItem from="1624889668472" duration="15000" />
+      <workItem from="1624891033845" duration="2013000" />
+      <workItem from="1625020380963" duration="610000" />
+      <workItem from="1625029005324" duration="145000" />
+      <workItem from="1625290835872" duration="555000" />
+      <workItem from="1625291430641" duration="66450000" />
+      <workItem from="1625540494301" duration="16617000" />
+      <workItem from="1625621841353" duration="1228000" />
+      <workItem from="1626270189252" duration="53986000" />
+      <workItem from="1626531041431" duration="477000" />
+      <workItem from="1626531546117" duration="64000" />
+    </task>
+    <task id="LOCAL-00001" summary="first">
+      <created>1626530564202</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1626530564203</updated>
+    </task>
+    <task id="LOCAL-00002" summary="second">
+      <created>1626530635068</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1626530635068</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first" />
+    <MESSAGE value="second" />
+    <option name="LAST_COMMIT_MESSAGE" value="second" />
+  </component>
+</project>
