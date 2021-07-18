@@ -7,7 +7,7 @@ A simple example for TSDF fusion.
 
 ## 2. Results
 
-<img src="./results.png">
+<img src="./output/results.png">
 
 ## 3. TO DO
 
